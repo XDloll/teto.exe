@@ -1,6 +1,6 @@
 # teto.exe
 youareaidiot.exe teto version 
-[https://www.youtube.com/watch?v=YcxhmHEykPg](Video) being played
+[Video Being Played](https://www.youtube.com/watch?v=YcxhmHEykPg)
 
 
 
