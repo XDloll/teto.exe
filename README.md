@@ -12,4 +12,6 @@ If using the Python method you are able to change the video and bsod picture as 
 To compile the Python script install PyInstaller and use:
 
 
-'''js python -m PyInstaller --uac-admin --noconsole --onefile --add-data "teto.mp4;." --add-data "execution_clap.mp3;." --add-data "funny.mp3;." --add-data "bsod_image.png;." teto.py '''
+```js
+python -m PyInstaller --uac-admin --noconsole --onefile --add-data "teto.mp4;." --add-data "execution_clap.mp3;." --add-data "funny.mp3;." --add-data "bsod_image.png;." teto.py
+```
